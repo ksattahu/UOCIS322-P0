@@ -1,9 +1,7 @@
-# Project 0 - Hello
--------------
+# UOCIS322 - Project 0
 
-Deadline: 
-
-Trivial project to exercise version control, turn-in, and other mechanisms.
+Trivial project to exercise version control, turn-in, and other mechanisms 
+for CIS 322, introduction to software engineering at the University of Oregon.
 
 :warning: Be careful about the changes you make.
 I highly recommend waiting until session 2 (04/08/2021).
